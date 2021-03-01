@@ -1,39 +1,22 @@
-.collapse navbar-collapse {
-    margin-left: 50px;
+
+h1 {
+    color: white;
+    font-size: 20px;
 }
 
-#cuadro1 {
-    margin-top: 5px;
+#navbarNav {
+    justify-content: center;
 }
 
-.img-fluid {
-    width: 500px;
-    height: 500px;
-}
-
-.ProfilePic {
-    width: 20px;
-    height: 20px;
-}
-
-.fondo {
-    position: relative;
+.card {
     display: inline-block;
-    text-align: center;
-    height: auto;
+    align-items: center;
+    margin-left: 60px;
 }
 
-.texto {
-    position: absolute;
-    top: 10px;
-    left: 10px;
+footer {
+    font-size: 13px;
+    padding: 2px;
+    background-color: #343a40;
     color: white;
-}
-
-.center {
-    color: white;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
